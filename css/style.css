@@ -885,7 +885,7 @@ a:hover {
 }
 
 .postcard .postcard__img-diptico {
-  padding:12px 40px;
+  padding:10px 50px;
   object-fit: fill !important;
   background: radial-gradient(circle, rgb(255, 255, 255), rgb(231, 169, 169), #f3777b);
 }
