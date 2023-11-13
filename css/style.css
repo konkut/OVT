@@ -885,13 +885,14 @@ a:hover {
 }
 
 .postcard .postcard__img-diptico {
-  padding:12px 30px;
+  padding:12px 40px;
   object-fit: fill !important;
   background: radial-gradient(circle, rgb(255, 255, 255), rgb(231, 169, 169), #f3777b);
 }
 
 .postcard .postcard__img-android {
   padding: 20px;
+  object-fit: fill !important;
   background: radial-gradient(circle, rgb(255, 255, 255), #e4fbbb, #b5ff34);
 }
 
