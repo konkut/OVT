@@ -1,0 +1,42 @@
+{
+  "lang": "es",
+  "short_name": "Soporte OVT",
+  "name": "Soporte plataforma OVT",
+  "description": "Sitio oficial de soporte para la plataforma OVT del Miniterio de Trabajo Empleo y Previsión Social",
+  "icons": [
+    {
+      "src": "/images/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/images/64.png",
+      "type": "image/png",
+      "sizes": "64x64",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/216.png",
+      "type": "image/png",
+      "sizes": "216x216",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ff974f",
+  "display": "standalone",
+  "scope": "/",
+  "orientation": "portrait",
+  "theme_color": "#ff974f"
+}
