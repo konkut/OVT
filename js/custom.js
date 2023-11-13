@@ -1,8 +1,9 @@
 //Pre loader
+/*
 $(window).load(function () {
   $(".preloader").fadeOut(0);
 });
-
+*/
 $(document).ready(function () {
   // Ocultar el menu en mobile cuando se hace click en algun enlace
   $(".navbar-collapse a").click(function () {
